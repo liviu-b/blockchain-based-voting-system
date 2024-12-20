@@ -97,4 +97,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 For any questions or feedback, feel free to reach out:  
 
 - **Author**: Liviu B.  
-- **GitHub**: [liviu-b](https://github.com/liviu-b)  
+- **GitHub**: [liviu-b](https://github.com/liviu-b)
